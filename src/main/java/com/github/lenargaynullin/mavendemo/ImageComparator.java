@@ -1,8 +1,8 @@
 package com.github.lenargaynullin.mavendemo;
 
-import com.github.romankh3.image.comparison.ImageComparison;
-import com.github.romankh3.image.comparison.model.ImageComparisonResult;
-import com.github.romankh3.image.comparison.model.ImageComparisonState;
+import com.github.lenargaynullin.image.comparison.ImageComparison;
+import com.github.lenargaynullin.image.comparison.model.ImageComparisonResult;
+import com.github.lenargaynullin.image.comparison.model.ImageComparisonState;
 
 import java.awt.image.BufferedImage;
 
