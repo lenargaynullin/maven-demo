@@ -1,5 +1,5 @@
 package com.github.lenargaynullin.image.comparison;
-// Test
+// Testвыа
 import com.github.lenargaynullin.image.comparison.model.ExcludedAreas;
 import com.github.lenargaynullin.image.comparison.model.ImageComparisonResult;
 import com.github.lenargaynullin.image.comparison.model.ImageComparisonState;
